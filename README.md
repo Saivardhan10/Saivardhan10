@@ -49,7 +49,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ## ©️ Important Links:
 
 - Linktree: [https://linktr.ee/Saivardhan10](https://linktr.ee/Saivardhan10)
-- Resume: [resume/Sumith_thota](https://drive.google.com/drive/folders/13f8NynrYCDhZCnjdgCI02XN_bE_qduWe?usp=drive_link)
+- Resume: [resume/Saivardhan](https://drive.google.com/file/d/14Hxkpy6uIg3nxHaaFj3f8jcxbWSLFLls/view?usp=sharing)
 
 <!-- Skills -->
 
