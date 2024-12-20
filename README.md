@@ -32,10 +32,10 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <a href="https://www.linkedin.com/in/saivardhan-nuguri-325324259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Sumiththota1" target="_blank">
+  <a href="https://x.com/N_Saivardhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:thotasumith02@gmail.com" target="_blank">
+  <a href="mailto:saivardhannuguri@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/1118219114658402414" target="_blank">
