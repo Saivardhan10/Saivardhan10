@@ -18,17 +18,13 @@ I usually work on **Full Stack Development**, **Software Development**.
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
-<!-- - Upcoming **SWE** at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
-- 2x **[Kaggle](https://www.kaggle.com/)** Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)** -->
 
 <!-- Experience -->
 
 ##  👨‍💻 Experience
 
-- Technical Content Developer at **[Javatpoint](https://gssoc.girlscript.tech/)**
-<!-- - Co-Founder & CEO at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
-- Data Science Intern at **[Innomatics Research Labs](https://www.innomatics.in/)**
-- Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)** -->
+- Technical Content Developer at **[Javatpoint](https://www.javatpoint.com/)**
+
   
 ## 🔗 Connect with me: <img src="https://gifyu.com/image/Zy2f" width="50px"></a>
 
