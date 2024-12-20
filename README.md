@@ -93,9 +93,9 @@ I believe in public learning, and consider myself a proactive, responsible and r
   
   Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
   ------- | :---------: | :--------: | :--------: | :-----------:
-  QuickQuiz | HTML, CSS, JS, PHP | [Repo](https://github.com/SumithThota/Quick-Quiz-Web-Project) | GitHub | [Quick Quiz](https://hardier-riddles.000webhostapp.com/login.html)
-  Spotify Clone | HTML, CSS | [Repo](https://github.com/SumithThota/Spotify-clone) | GitHub | [Spotify Clone](https://sumiththota.github.io/Spotify-clone/index.html)
-  Personal Protfolio | HTML, CSS | [Repo](https://github.com/SumithThota/Portfolio) | GitHub | [Portfolio](https://sumiththota.netlify.app/)
+  medSync | HTML, CSS, JS, React, Node.js, Express.js, MongoDB | [Repo](https://github.com/Saivardhan10/medSync) | GitHub | [medSync](https://medsync-frontend.onrender.com/)
+  Nova-The Virtual Assistant | HTML, CSS, JS | [Repo](https://github.com/Saivardhan10/Nova-Virtual_Assistant) | GitHub | [Nova-The Virtual Assistant](https://nova-virtual-assistant.vercel.app/)
+  Weather App| HTML, CSS, JS | [Repo](https://github.com/Saivardhan10/weather-app) | GitHub | [Weather App](https://weather-app-nu-nine-94.vercel.app/)
   
 
 ## 🧮 Stats:
