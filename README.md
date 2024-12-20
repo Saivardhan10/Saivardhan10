@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Sumith+Thota;I'm+a+Software+Developer.;+Full-Stack+Developer.;%E2%9D%A4%EF%B8%8F+%7C+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Saivardhan+Nuguri;I'm+a+Software+Developer.;+Full-Stack+Developer.;%E2%9D%A4%EF%B8%8F+%7C+;)](https://git.io/typing-svg)
 </div>
 
 <!-- About Me -->
@@ -13,8 +13,8 @@
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-Hello! I'm Sumith, a final year Computer Science student, a software developer who loves to explore and contribute to the world.
-I usually work on **Full Stack Development**, **Software Development**, and **Open source Contributions**.
+Hello! I'm Saivardhan, a final year Computer Science student, a software developer who loves to explore and contribute to the world.
+I usually work on **Full Stack Development**, **Software Development**.
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
@@ -25,7 +25,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 ##  👨‍💻 Experience
 
-- Contributor at **[GSSoC'24](https://gssoc.girlscript.tech/)**
+- Technical Content Developer at **[Javatpoint](https://gssoc.girlscript.tech/)**
 <!-- - Co-Founder & CEO at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
 - Data Science Intern at **[Innomatics Research Labs](https://www.innomatics.in/)**
 - Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)** -->
@@ -140,24 +140,4 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <!-- <img src="https://raw.githubusercontent.com/SumithThota/SumithThota/output/github-contribution-grid-snake.svg" width="1500" alt="Snake Game" />
 ![snake gif](https://raw.githubusercontent.com/SumithThota/SumithThota/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/SumithThota/SumithThota/blob/output/github-contribution-grid-snake.gif) -->
-
-
-
-
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
-
-
-
-## Hacktoberfest(24) Badges
-[![An image of @sumiththota's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumiththota)](https://holopin.io/@sumiththota)
-
 
