@@ -38,14 +38,8 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <a href="mailto:saivardhannuguri@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/1118219114658402414" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
-  </a>
-  
-  <a href="https://www.facebook.com/sumith.p.thota" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/+918500448118" target="_blank">
+
+  <a href="https://wa.me/+917680880912" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.youtube.com/@Inspirethesociety" target="_blank">
